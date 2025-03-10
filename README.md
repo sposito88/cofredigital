@@ -34,6 +34,7 @@ pip install cryptography bcrypt
 ```
 
 # 🛠 Como Usar
+
 1️⃣ Digite uma senha forte
 2️⃣ Clique em um dos botões:
 
@@ -48,14 +49,17 @@ pip install cryptography bcrypt
 🔐 AES-256 com GCM (modo autenticado)
 🛡 bcrypt para derivação segura de chaves
 🎨 Tkinter + ttk (design moderno baseado no Bootstrap 5)
-🛠 Melhorias Futuras
+
+# 🛠 Melhorias Futuras
+
 🔑 Gerenciamento seguro de senhas
 ☁️ Armazenamento em nuvem com Google Drive
 🔄 Autenticação em dois fatores (2FA)
-🤝 Contribuindo
+
+# 🤝 Contribuindo
 Fique à vontade para abrir issues e pull requests. Sugestões e melhorias são sempre bem-vindas!
 
-📜 Licença
+# 📜 Licença
 Este projeto está licenciado sob a MIT License.
 
 🔐 Proteja seus arquivos com segurança! 🚀✨
