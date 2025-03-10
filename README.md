@@ -33,28 +33,33 @@ Abra o terminal e execute:
 pip install cryptography bcrypt
 ```
 
-# 🛠 Como Usar
+## 🛠 Como Usar
 
-1️⃣ Digite uma senha forte
-2️⃣ Clique em um dos botões:
+1️⃣ **Digite uma senha forte**  
+2️⃣ **Clique em um dos botões:**  
 
-🔒 Criptografar Arquivo: Escolha um arquivo para proteger.
-🔓 Descriptografar Arquivo: Escolha um arquivo protegido para restaurar.
-🗂️ Criptografar Pasta: Escolha uma pasta para criptografar todos os arquivos dentro dela.
-🗂️ Descriptografar Pasta: Escolha uma pasta protegida para restaurar os arquivos originais.
-3️⃣ Pronto! Seus arquivos estão protegidos!
+- 🔒 **Criptografar Arquivo**: Escolha um arquivo para proteger.  
+- 🔓 **Descriptografar Arquivo**: Escolha um arquivo protegido para restaurar.  
+- 🗂️ **Criptografar Pasta**: Escolha uma pasta para criptografar todos os arquivos dentro dela.  
+- 🗂️ **Descriptografar Pasta**: Escolha uma pasta protegida para restaurar os arquivos originais.  
 
-📌 Tecnologias Utilizadas
-🐍 Python 3.12
-🔐 AES-256 com GCM (modo autenticado)
-🛡 bcrypt para derivação segura de chaves
-🎨 Tkinter + ttk (design moderno baseado no Bootstrap 5)
+3️⃣ **Pronto! Seus arquivos estão protegidos!**  
+
+---
+
+## 📌 Tecnologias Utilizadas
+
+- 🐍 **Python 3.12**  
+- 🔐 **AES-256 com GCM (modo autenticado)**  
+- 🛡 **bcrypt para derivação segura de chaves**  
+- 🎨 **Tkinter + ttk (design moderno baseado no Bootstrap 5)**  
+
 
 # 🛠 Melhorias Futuras
 
-🔑 Gerenciamento seguro de senhas
-☁️ Armazenamento em nuvem com Google Drive
-🔄 Autenticação em dois fatores (2FA)
+- 🔑 Gerenciamento seguro de senhas
+- ☁️ Armazenamento em nuvem com Google Drive
+- 🔄 Autenticação em dois fatores (2FA)
 
 # 🤝 Contribuindo
 Fique à vontade para abrir issues e pull requests. Sugestões e melhorias são sempre bem-vindas!
