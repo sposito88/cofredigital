@@ -31,7 +31,7 @@ Ele protege seus dados confidenciais, impedindo o acesso sem a senha correta.
 Abra o terminal e execute:
 ```bash
 pip install cryptography bcrypt
-
+```
 
 # 🛠 Como Usar
 1️⃣ Digite uma senha forte
